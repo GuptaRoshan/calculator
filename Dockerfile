@@ -14,4 +14,4 @@ RUN npm install && npm build
 FROM nginx:1.13.3-alpine
 
 RUN rm -rf /usr/share/nginx/html/*
-COPY --from=Builder /usr/src/app/build /usr/share/nginx/html
+COPY --from=Builder /usr/src/app/public /usr/share/nginx/html

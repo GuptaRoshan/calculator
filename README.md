@@ -1,26 +1,29 @@
-Calculator
----
-<img src="Logotype primary.png" width="60%" height="60%" />
+## GCP deployment with React application
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+### Try it
 
+[application](https://react-app-314311-2tcdwhu7iq-uc.a.run.app/)
 
-Try It
----
+### Commands
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+- `npm start`
+  
+- `npm run build`
+  
+- `npm test`
+  
 
+## Contributors
 
+| Name | ID  |
+| --- | --- |
+| Roshan Gupta | [#GuptaRoshan](https://github.com/GuptaRoshan) |
+| Abhishek Sharma | [#abhish3k-sh](https://github.com/abhish3k-sh) |
+| Digvijay Wadkar | [#DigVijayWa](https://github.com/DigVijayWa) |
+| Mihir Sagar | [#mihirpsagar](https://github.com/mihirpsagar) |
 
-Install
----
+### Reference
 
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+Base application forked from [GitHub - ahfarmer/calculator: Simple calculator built with React](https://github.com/ahfarmer/calculator)

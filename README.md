@@ -1,5 +1,8 @@
 ## GCP deployment with React application
 
+![example workflow](https://github.com/GuptaRoshan/calculator/actions/workflows/build.yml/badge.svg)
+![example workflow](https://github.com/GuptaRoshan/calculator/actions/workflows/gcp-deploy.yml/badge.svg)
+
 <img src="react-with-docker.png" width="100%" height="100%" />
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).

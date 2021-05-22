@@ -22,12 +22,12 @@ Created with *create-react-app*. See the [full create-react-app guide](http
 
 ## Contributors
 
-| Name | ID  |
-| --- | --- |
-| Roshan Gupta | [#GuptaRoshan](https://github.com/GuptaRoshan) |
-| Abhishek Sharma | [#abhish3k-sh](https://github.com/abhish3k-sh) |
-| Digvijay Wadkar | [#DigVijayWa](https://github.com/DigVijayWa) |
-| Mihir Sagar | [#mihirpsagar](https://github.com/mihirpsagar) |
+| Name | GIT ID  | BITS ID |
+| --- | --- | --- |
+| Roshan Gupta | [#GuptaRoshan](https://github.com/GuptaRoshan) | 2018HS0003 |
+| Abhishek Sharma | [#abhish3k-sh](https://github.com/abhish3k-sh) | 2018HS70042 |
+| Digvijay Wadkar | [#DigVijayWa](https://github.com/DigVijayWa) | 2018HS70036 |
+| Mihir Sagar | [#mihirpsagar](https://github.com/mihirpsagar) | 2018HS70005 |
 
 ### Reference
 

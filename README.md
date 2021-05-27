@@ -13,11 +13,23 @@ Created with *create-react-app*. See the [full create-react-app guide](http
 
 ### Commands
 
-- `npm start`
-  
-- `npm run build`
-  
-- `npm test`
+To start the development server locally
+
+```bash
+npm start
+```
+
+To create the production ready optimized build
+
+```bash
+npm run build
+```
+
+To test out the functionality
+
+```bash
+npm test
+```
   
 
 ## Contributors

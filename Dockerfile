@@ -11,6 +11,6 @@ ARG GENERATE_SOURCEMAP=false
 
 RUN npm install && npm build
 
-EXPOSE 8080
+EXPOSE 3000
 
 CMD ["npm", "start"]

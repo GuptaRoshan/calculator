@@ -133,8 +133,8 @@ describe("calculate", function() {
   });
 
   // should clear the operator when AC is pressed
-  test(["1", "+", "2", "C"], {});
-  test(["+", "2", "C"], {});
+  test(["1", "+", "2", "AC"], {});
+  test(["+", "2", "AC"], {});
 
   test(["4", "%"], {
     next: "0.04",
